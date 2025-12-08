@@ -6,7 +6,7 @@ This Tableau presentation visualizes climate data in North America (specifically
 
 This project uses data cleaned an prepared from the a previous project (climate_agriculture_impact, available at: [https://github.com/nickbartram/climate_agriculture_impact](https://github.com/nickbartram/climate_agriculture_impact)). Please visit the aforementioned repository for details concerning research, collection, and data processing.
 
-You can explore te full Tableau Public story here: [https://public.tableau.com/app/profile/nicholas.bartram/viz/climate_project/ClimateStory](https://public.tableau.com/app/profile/nicholas.bartram/viz/climate_project/ClimateStory)
+You can explore the full Tableau Public story here: [https://public.tableau.com/app/profile/nicholas.bartram/viz/climate_project/ClimateStory](https://public.tableau.com/app/profile/nicholas.bartram/viz/climate_project/ClimateStory)
 
 ## Data
 
