@@ -4,7 +4,7 @@
 
 This Tableau presentation visualizes climate data in North America (specifically Canada and the United States). The project was created using real world publicly accessible data. It looks at many parameters, including: rainfall, CO2 emissions, GDP, healthy diet data, and crop yields.
 
-This project uses data cleaned an prepared from the a previous project (climate_agriculture_impact), available at: [https://github.com/nickbartram/climate_agriculture_impact](https://github.com/nickbartram/climate_agriculture_impact). Please visit the aforementioned repository for details concerning research, collection, and data processing.
+This project uses data cleaned an prepared from the a previous project (climate_agriculture_impact, available at: [https://github.com/nickbartram/climate_agriculture_impact](https://github.com/nickbartram/climate_agriculture_impact)). Please visit the aforementioned repository for details concerning research, collection, and data processing.
 
 ## Data
 
@@ -18,7 +18,7 @@ The next dataset also comes from the World Bank but also the Climate Change Know
 
 Finally datasets of crop production of Canada and the United States of America were found at Statistics Canada (Stats Can: https://www.statcan.gc.ca/en/start) and the United States Department of Agriculture Quick Stats (USDA Quick Stats: https://www.nass.usda.gov/Quick_Stats/). These two datasets contains information on historical wheat and corn production that was used for this project. A full citation come be found in [References](#references).
 
-This is the same data used in two other projects for this portfolio. The other projects are avaible here:
+This is the same data used in two other projects for this portfolio. The other projects are available here:
 
 * [https://github.com/nickbartram/climate_agriculture_impact.git](https://github.com/nickbartram/climate_agriculture_impact.git)
 * [https://github.com/nickbartram/flask_app](https://github.com/nickbartram/flask_app)
@@ -31,7 +31,7 @@ Example:
 
 ![1764875110463](image/README/1764875110463.png)      ![1764875014587](image/README/1764875014587.png)
 
-Tableau can connect to a PostgreSQL database however, that requires a subscription. The cost of the subsciption was prohibitive considering the scale of this project. The database is static as well, it will not change, therefore having a live connection was unnecessary.
+Tableau can connect to a PostgreSQL database however, that requires a subscription. The cost of the subscription was prohibitive considering the scale of this project. The database is static as well, it will not change, therefore having a live connection was unnecessary.
 
 First, worksheets were created, then dashboards, and finally a Tableau story combining all the elements. Many different worksheets were tested and customized, not all of them were used in the final story.
 
@@ -42,7 +42,7 @@ First, worksheets were created, then dashboards, and finally a Tableau story com
 The visuals in this project demonstrate some interesting trends:
 
 * CO2 emissions in Canada and the United States have greatly increased since the 1960s however, emissions have dropped somewhat in the last 15 years.
-* Wheat and corn production has steadily increased in both countries, though fluctuating from year to year the overall trend increases greatly
+* Wheat and corn production has steadily increased in both countries, though fluctuating from year to year, the overall trend increases greatly.
 * Rainfall in the United States is much higher than Canada, even though Canada has a much larger surface area.
 * Population in the both countries has also greatly increased, although CO2 per capita has been decreasing since the year 2000.
 * With crop production, rainfall, CO2 all increasing, it's surprising to see that people able to afford a healthy diet is decreasing.
@@ -54,10 +54,9 @@ Example slide from Tableau story:
 
 ![1764881478353](image/README/1764881478353.png)
 
-
 ## Conclusion
 
-This project demonstrates how multiple datasets can be combined and visualized in Tableau to explore climate, agriculture and economic trends. The interactive dashboards allow users to engage with the data without needing to process CSVs or write code. While the findings are not intended to provide new scientific insights, they effectively higlight patterns and relataionshps in climate and agricultural data in North America. This project showcases skills in data preparation, visualization design and interactive storytelling using Tableau.
+This project demonstrates how multiple datasets can be combined and visualized in Tableau to explore climate, agriculture and economic trends. The interactive dashboards allow users to engage with the data without needing to process CSVs or write code. While the findings are not intended to provide new scientific insights, they effectively highlight patterns and relationships in climate and agricultural data in North America. This project showcases skills in data preparation, visualization design and interactive storytelling using Tableau.
 
 ## References
 
