@@ -4,6 +4,10 @@
 
 This Tableau presentation visualizes climate data in North America (specifically Canada and the United States). The project was created using real world publicly accessible data. It looks at many parameters, including: rainfall, CO2 emissions, GDP, healthy diet data, and crop yields. The project uses multiple CSV datasets and Tableau for interactive storytelling.
 
+<div>
+    <img src="image/README/1765254626648.png" width="180" style="display:inline-block; margin-right:20px;">
+</div>
+
 This project uses data cleaned an prepared from the a previous project (climate_agriculture_impact, available at: [https://github.com/nickbartram/climate_agriculture_impact](https://github.com/nickbartram/climate_agriculture_impact)). Please visit the aforementioned repository for details concerning research, collection, and data processing.
 
 You can explore the full Tableau Public story here: [https://public.tableau.com/app/profile/nicholas.bartram/viz/climate_project/ClimateStory](https://public.tableau.com/app/profile/nicholas.bartram/viz/climate_project/ClimateStory)
